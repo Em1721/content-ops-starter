@@ -37,7 +37,7 @@ sections:
       elementId: ''
       type: ImageBlock
     badge:
-      label: This is a badge
+      label: Dirección de Culrura de Nextlalpan de F.S.S.
       color: text-primary
       type: Badge
     elementId: ''
