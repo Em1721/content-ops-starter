@@ -37,7 +37,7 @@ sections:
       elementId: ''
       type: ImageBlock
     badge:
-      label: Dirección de Culrura de Nextlalpan de F.S.S.
+      label: Dirección de Cultura de Nextlalpan de F.S.S.
       color: text-primary
       type: Badge
     elementId: ''
