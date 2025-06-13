@@ -88,7 +88,7 @@ sections:
   - type: FeaturedItemsSection
     title:
       text: Talleres en Casa de Cultura "Toltecalli"
-      color: text-dark
+      color: text-primary
       styles:
         self:
           textAlign: center
