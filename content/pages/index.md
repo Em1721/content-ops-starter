@@ -58,6 +58,7 @@ sections:
       backgroundPosition: center
       backgroundRepeat: no-repeat
       opacity: 100
+      url: /images/webfon1.jpeg
   - type: FeaturedItemsSection
     title:
       text: Key Benefits
