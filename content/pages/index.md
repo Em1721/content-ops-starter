@@ -48,7 +48,7 @@ sections:
         style: secondary
         elementId: ''
         type: Button
-      - label: See Tutorials
+      - label: Actividades
         altText: ''
         url: /
         showIcon: true
