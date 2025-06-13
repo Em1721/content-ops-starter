@@ -39,7 +39,7 @@ sections:
 
 
     actions:
-      - label: Get started
+      - label: Comenzar
         altText: ''
         url: /
         showIcon: false
