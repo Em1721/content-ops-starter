@@ -32,7 +32,7 @@ sections:
         elementId: ''
         type: Link
     media:
-      url: /images/Captura de pantalla 2025-06-12 231808.png
+      url: /images/LOGO DIRECCION DE CULTURA.png
       altText: Unblock your team boost your time to production preview
       elementId: ''
       type: ImageBlock
