@@ -8,10 +8,36 @@ sections:
       color: text-dark
       type: TitleBlock
     subtitle: Subtitle goes here
-    text: >
-      A Netlify Create website is a git repo that you own. Every code commit is
-      instantly reflected in the visual editor and since every visual edit is a
-      git commit, git workflows and collaboration just work.
+    text: >+
+      <div style="text-align: left">***La misión de dirección de cultura es
+      promover y preservar el patrimonio cultural
+
+      local, fomentando la participación ciudadana en actividades artísticas y
+
+      culturales. Busca apoyar la creación y difusión de expresiones culturales
+
+      diversas, enriqueciendo la identidad comunal. Además, se encarga de
+      facilitar
+
+      el acceso a la cultura para todos los habitantes, fortaleciendo la
+      educación
+
+      artística y cultural. La dirección también trabaja en colaboración con
+
+      instituciones y organizaciones locales para impulsar proyectos que
+      contribuyan
+
+      al desarrollo cultural sostenible. En resumen, su objetivo es cultivar un
+
+      entorno cultural dinámico e inclusivo que refleje la riqueza de la
+      comunidad. (SIC)***</div>
+
+
+
+
+
+
+
     actions:
       - label: Get started
         altText: ''
