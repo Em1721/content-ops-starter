@@ -186,7 +186,7 @@ sections:
         type: Button
     badge:
       label: Comienza a explorar tus habilidades y enriquece tú patrimonio cultural
-      color: text-primary
+      color: text-dark
       styles:
         self:
           textAlign: center
