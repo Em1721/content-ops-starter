@@ -87,7 +87,7 @@ sections:
       url: /images/webfon1.jpeg
   - type: FeaturedItemsSection
     title:
-      text: Key Benefits
+      text: Talleres en Casa de Cultura "Toltecalli"
       color: text-dark
       styles:
         self:
