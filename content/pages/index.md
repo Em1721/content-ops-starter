@@ -92,6 +92,7 @@ sections:
       styles:
         self:
           textAlign: center
+          fontStyle: italic
       type: TitleBlock
     subtitle: No pierdas la oportunidad de explorar tus habilidades y las de tu familia
     items:
