@@ -183,7 +183,7 @@ sections:
         elementId: ''
         type: Button
     badge:
-      label: This is a badge
+      label: Comienza a explorar tus habilidades y enriquece tú patrimonio cultural
       color: text-primary
       styles:
         self:
