@@ -93,7 +93,7 @@ sections:
         self:
           textAlign: center
       type: TitleBlock
-    subtitle: Subtitle goes here
+    subtitle: No pierdas la oportunidad de explorar tus habilidades y las de tu familia
     items:
       - type: FeaturedItem
         title: 500k
